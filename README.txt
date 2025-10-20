@@ -6,7 +6,7 @@ It helps users post details, upload item images, and manage claims easily.
 1. Install XAMPp
    - Start **Apache** and **MySQL** in the Control Panel.
 2. create and Copy Project Folder
-   - Move the folder `lost_found_portal` into:
+   - Move the folder `lost_and_found portal` into:
      C:\xampp\htdocs\
 3. Create Database
    - Go to: http://localhost/phpmyadmin  
