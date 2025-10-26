@@ -57,6 +57,7 @@ Afterwards item can also be viewed.
 	•	A verification/confirmation process to ensure rightful claiming of items.
  
 #### Database Design:
+
 ### Tables:
 	•	users – stores user information (e.g., name, email).
 	•	items – stores details of reported items (e.g., item name, description, status, image, date, location, user_id).
@@ -68,3 +69,6 @@ Afterwards item can also be viewed.
 	•	Frontend: HTML, CSS (for user interface design)
 	•	Backend: PHP (form handling and logic)
 	•	Database: MySQL (data storage and retrieval)
+
+### HOME PAGE
+![Home page](Images/IMG-20251026-WA0376.jpg)
