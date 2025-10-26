@@ -69,5 +69,5 @@ Afterwards item can also be viewed.
 	•	Frontend: HTML, CSS (for user interface design)
 	•	Backend: PHP (form handling and logic)
 	•	Database: MySQL (data storage and retrieval)
-# HOME PAGE
+HOME PAGE
 ![Home page](Images/IMG-20251026-WA0376.jpg)
