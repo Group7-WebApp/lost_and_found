@@ -21,6 +21,8 @@ It helps users post details, upload item images, and manage claims easily.
 5. Run the Project
    - In your browser, go to:
      http://localhost/lost_and_found_/
+     
+![Home page](Images/IMG-20251026-WA0384.jpg)
 
 ### GROUP MEMBERS, MATRIC NUMBERS,Team Role CONTRIBUTIONS
 OLATEJU RASHIDAT OLAMIDE |23/0781| |TEAM LEADER, GITHUB REPOSITORY, DOCUMENTATION, DATABASE|
