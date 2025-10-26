@@ -57,7 +57,7 @@ Afterwards item can also be viewed.
 	•	A verification/confirmation process to ensure rightful claiming of items.
  
 #### Database Design:
-
+![Home page](Images/IMG-20251026-WA0380.jpg)
 ### Tables:
 	•	users – stores user information (e.g., name, email).
 	•	items – stores details of reported items (e.g., item name, description, status, image, date, location, user_id).
